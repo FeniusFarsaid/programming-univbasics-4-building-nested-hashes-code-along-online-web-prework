@@ -13,7 +13,9 @@ def second_challenge
       :heroine = {}
       :hero_friends = []
       #your key/value pairs here!
-      }}
+      }
+    
+  }
 
   
 end
